@@ -1,0 +1,13 @@
+💡 Dive into SOLID principles for rock-solid software design! 🏗️
+
+🔍 Single Responsibility: Each class should have only one reason to change. Keep it focused!
+
+🚪 Open/Closed: Software entities should be open for extension but closed for modification. Embrace new features without altering existing code.
+
+↔️ Liskov Substitution: Subtypes must be substitutable for their base types. Avoid surprises when using derived classes.
+
+📦 Interface Segregation: Clients should not be forced to depend on interfaces they don't use. Keep your interfaces tailored and cohesive.
+
+🔗 Dependency Inversion: High-level modules should not depend on low-level modules. Instead, both should depend on abstractions. Stay flexible and decoupled!
+
+Let's craft software that stands the test of time. Share your thoughts on SOLID principles and let's raise the bar together! 🌟👩‍💻👨‍💻 #SoftwareEngineering #BestPractices #CodeQuality
